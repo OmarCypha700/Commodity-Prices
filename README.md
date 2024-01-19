@@ -6,4 +6,6 @@ Data was dowloaded in json format
 ## Objective
 The primary objective of this project was to get the annual price of each commodity in the past five years (ie. 2018 to 2022) 
 ## Tech stack
-- Python 
+- Python
+## Visualization & Documentation
+See visualization and documentation at [isualizeghana.com](https://visualizeghana.com/2024/01/trend-of-ghanas-commodity-prices.html)
