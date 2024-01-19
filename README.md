@@ -8,4 +8,4 @@ The primary objective of this project was to get the annual price of each commod
 ## Tech stack
 - Python
 ## Visualization & Documentation
-See visualization and documentation at [isualizeghana.com](https://visualizeghana.com/2024/01/trend-of-ghanas-commodity-prices.html)
+See visualization and documentation at [visualizeghana.com](https://visualizeghana.com/2024/01/trend-of-ghanas-commodity-prices.html)
